@@ -14,7 +14,7 @@
 </div>
 :woman_technologist: О себе/About Me :
 
-- :raising_hand_woman: Меня зовут Кэтрин и я начинающий инженер-программист./ My name is Catherine and I am a novice software engineer. 
+- :raising_hand_woman: Меня зовут Екатерина и я начинающий инженер-программист./ My name is Catherine and I am a novice software engineer. 
 
 - :woman_student: Я получила диплом бакалавра по ИТ специальности, а сейчас я учусь в магистратуре./ I got a bachelor's degree in IT, and now I'm studying for a master's degree. 
 
