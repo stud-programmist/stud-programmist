@@ -21,3 +21,9 @@
 - :computer:  На моём профиле я буду размещать практические работы по программированию./ I will post practical programming papers on my profile.
 
 - :books: В свободное время я изучаю новые языки программирования и веб-/дизайн- разработку./In my free time I study new programming languages and web/design development
+
+---
+Главная страница профиля находиться в разработке/The main profile page is under development
+<div align="center">
+    <img src="https://cdn-icons-png.flaticon.com/512/5805/5805601.png" width= "250"/>
+</div>
