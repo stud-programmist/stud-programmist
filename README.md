@@ -1,7 +1,7 @@
 ### Здравствуйте все и добро пожаловать на мой Github профиль! 👋
 ### Hello everyone and welcome to my Github profile!👋
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/3osxYlSDn290VbV076/giphy.gif"/ width= "400">
+  <img src="https://media1.giphy.com/media/qQRfz2VfUbDeebczif/giphy.gif?cid=ecf05e47ps4pi1sx8hqs8dafq6sznqpx99d35gwwa4i0oth2&rid=giphy.gif&ct=g"/ width= "400">
 </div>
 <div id="badges">
     <img src="https://komarev.com/ghpvc/?username=stud-programmist&style=flat-square&color=blue" width= "200"/>
