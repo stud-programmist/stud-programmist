@@ -44,7 +44,7 @@
   </div>
 - Python:
   <div>
-      <a href="https://github.com/stud-programmist/SQL_Alchemy_-Python-">SQL_Alchemy. Паспортист в жилищном корпоротиве</a>
+      <a href="https://github.com/stud-programmist/SQL_Alchemy_-Python-">SQL_Alchemy. Паспортист в жилищном кооперативе</a>
   </div>
 - C:
 - C++:
