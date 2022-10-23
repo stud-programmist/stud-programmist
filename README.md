@@ -36,7 +36,8 @@
 ---
 
 :nerd_face: Мои работы /My works:
-Навигация по моим репозиториям/Navigating my repositories
+
+:world_map: Навигация по моим репозиториям/Navigating my repositories
 - XML:
   <div>
       <a href="https://github.com/stud-programmist/XML-markup-language">Досье</a>
