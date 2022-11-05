@@ -49,6 +49,7 @@
 - C/C++:
   <div>
       <a href="https://github.com/stud-programmist/OpenMP">Параллельное программирование средствами OpenMP</a>
+      <a href="https://github.com/stud-programmist/Binar_Tree"> Параллельное программирование средствами OpenMP. Двоичное дерево</a>
   </div>
   
 - C#:
