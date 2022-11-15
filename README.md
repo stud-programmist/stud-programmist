@@ -46,6 +46,10 @@
   <div>
       <a href="https://github.com/stud-programmist/SQL_Alchemy_-Python-">SQL_Alchemy. Паспортист в жилищном кооперативе</a>
   </div>
+  <div>
+      <a href="https://github.com/stud-programmist/Inverted_Index"> Инвертированный список (Инвертированный индекс)</a>
+  </div>
+  
 - C/C++:
   <div>
       <a href="https://github.com/stud-programmist/OpenMP">Параллельное программирование средствами OpenMP. Произведение матрицы на вектор</a>   
