@@ -49,6 +49,9 @@
   <div>
       <a href="https://github.com/stud-programmist/Inverted_Index"> Инвертированный список (Инвертированный индекс)</a>
   </div>
+  <div>
+      <a href="https://github.com/stud-programmist/SimpleDraw"> Рисуем с SimpleDraw</a>
+  </div>
   
 - C/C++:
   <div>
