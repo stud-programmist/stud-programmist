@@ -52,6 +52,9 @@
   <div>
       <a href="https://github.com/stud-programmist/SimpleDraw"> Рисуем с SimpleDraw</a>
   </div>
+  <div>
+      <a href="https://github.com/stud-programmist/Work_With_Module"> Работа с модулями в Python. Рецепты бургеров</a>
+  </div>
   
 - C/C++:
   <div>
