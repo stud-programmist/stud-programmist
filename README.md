@@ -16,9 +16,9 @@
 
 - :raising_hand_woman: Меня зовут Екатерина и я начинающий инженер-программист./ My name is Catherine and I am a novice software engineer. 
 
-- :woman_student: Я получила диплом бакалавра по ИТ специальности, а сейчас я учусь в магистратуре./ I got a bachelor's degree in IT, and now I'm studying for a master's degree. 
+- :woman_student:Я окончила бакалавриат и магистратуру по ИТ специальности./ I have graduated from bachelor's and master's degrees in IT specialty. 
 
-- :computer:  На моём профиле я буду размещать практические работы по программированию./ I will post practical programming papers on my profile.
+- :computer:  На моём профиле я буду размещать практические работы по программированию, которые я проходила во время обучения, а также новые для себя проекты./ On my profile, I will post practical programming work that I passed during my training, as well as new projects for myself.
 
 - :books: В свободное время я изучаю новые языки программирования и веб-/дизайн- разработку./In my free time I study new programming languages and web/design development
 
